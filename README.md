@@ -30,6 +30,6 @@ const consu = {
 }
 ```
 
+---
 <em> If you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
----
