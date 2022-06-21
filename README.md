@@ -25,7 +25,7 @@ Follow my socials!
 const consu = {
   pronouns: "she" | "her",
   code: [Javascript,HTML, CSS],
-  tools: [React, Redux, Node, SQL],
+  tools: [React , Redux, Node, SQL],
   "
 }
 ```
