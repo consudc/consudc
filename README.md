@@ -2,7 +2,8 @@
   
 
 
-<p><em>Full-Stack Developer <a href="https://www.soyhenry.com">Soy Henry</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="30"></br>Contabilidad y Finanzas <a href="https://www.unc.edu.ar">UNC </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif"  width="30"> 
+<p><em>Full-Stack Developer <a href="https://www.soyhenry.com">Soy Henry</a><img>
+</br>Contabilidad y Finanzas <a href="https://www.unc.edu.ar">UNC </a><img> 
 </em></p>
 
 ---
@@ -25,7 +26,7 @@ const consu = {
   pronouns: "she" | "her",
   code: [Javascript,HTML, CSS],
   tools: [React, Redux, Node, SQL],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  "
 }
 ```
 
