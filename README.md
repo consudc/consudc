@@ -33,7 +33,7 @@ const consu = {
 ---
 
 
-<h2 align="left">Tecnologias:</h2>
+<h2 align="left">Tecnologies:</h2>
 
 <h4>FrontEnd</4>
 <p>
