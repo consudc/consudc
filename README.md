@@ -3,7 +3,8 @@
 
 
 <p><em>Full-Stack Developer <a href="https://www.soyhenry.com">Soy Henry</a><img>
-</br>Contabilidad y Finanzas <a href="https://www.unc.edu.ar">UNC </a><img> 
+</br> Finance and Accountant <a href="https://www.unc.edu.ar">UNC </a><img>
+</br>Project Manager <a href="https://21.edu.ar/">Universidad Siglo 21 </a><img> </em></p>
 </em></p>
 
 ---
@@ -32,10 +33,12 @@ const consu = {
 
 ---
 
+<h3> <img src="https://media3.giphy.com/media/aDpy1Us4nHxaoTm3hi/giphy.gif?cid=790b7611cs64wilviget4x9hwvc80mv78ynr5wr2ytaqff3r&rid=giphy.gif&ct=s" width="40" align="center"> Technologies</h3>   
 
-<h2 align="left">Tecnologies:</h2>
 
-<h4>FrontEnd</4>
+
+
+<h5>FrontEnd</h5>
 <p>
  <img src="https://camo.githubusercontent.com/ebba410edfb05353d7b46b3107304e7deeee8c6c12bc8769115f2dce43d11da0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36612f4a6176615363726970742d6c6f676f2e706e67" width="40"/> 
 
@@ -44,7 +47,7 @@ const consu = {
  </p>
  
  
-<h4>BackEnd & DataBase</h4>
+<h5>BackEnd & DataBase</h5>
 <p>
 <img src="https://camo.githubusercontent.com/22623d91d9cfe8469a76892f9af3cb9dde4cd7572c23fbb9754e98a6be48598c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3438302f706f73746772656573716c2e706e67" width="40" />
  
@@ -57,7 +60,7 @@ const consu = {
 <img src="https://camo.githubusercontent.com/449c52f7898657e449020360294f2c1950f3153df29b55603f7e0829cbf88df4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36342f457870726573736a732e706e67" width="70" />
 </p>
 
-<h4>Git</h4>
+<h5>Git</h5>
 <p>
 <img src="https://camo.githubusercontent.com/54e37ab9cf255d29b617f989a6f46b39c9e27bc5311089cb3050a7f965b8e33c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30312f65352f30302f30316535303066636132396330343564343332623634663238356639633232392e706e67 "  width="40"/>
 </p>
